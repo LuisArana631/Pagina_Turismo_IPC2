@@ -1,0 +1,168 @@
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.dll.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.pdb
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.rsp
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.rsp
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Console.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Claims.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.rsp
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csprojAssemblyReference.cache
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csproj.CoreCompileInputs.cache
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csproj.CopyComplete
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_2\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.pdb
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.dll.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.pdb
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.rsp
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.rsp
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.AppContext.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Console.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Compression.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Claims.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.ValueTuple.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.rsp
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csprojAssemblyReference.cache
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csproj.CoreCompileInputs.cache
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csproj.CopyComplete
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.dll
+C:\Users\Luis Fer\Desktop\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.pdb
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.dll.config
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Turismo_Pagina.pdb
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.exe
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.exe.config
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csc.rsp
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.exe
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.exe.config
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\csi.rsp
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.AppContext.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Collections.Immutable.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Console.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Compression.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.FileSystem.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.IO.Pipes.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Reflection.Metadata.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.AccessControl.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Claims.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.ValueTuple.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XPath.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.exe
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.exe.config
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\vbc.rsp
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\VBCSCompiler.exe
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\roslyn\VBCSCompiler.exe.config
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csprojAssemblyReference.cache
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csproj.CoreCompileInputs.cache
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.csproj.CopyComplete
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.dll
+E:\CURSOS_USAC\IPC_2\Proyecto\Fase_3\Turismo_Pagina\Turismo_Pagina\obj\Debug\Turismo_Pagina.pdb

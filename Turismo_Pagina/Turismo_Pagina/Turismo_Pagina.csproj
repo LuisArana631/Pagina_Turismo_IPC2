@@ -1,0 +1,427 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CB32192F-4326-4F85-B050-7C48E5D740AC}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Turismo_Pagina</RootNamespace>
+    <AssemblyName>Turismo_Pagina</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="css\animate.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\icomoon.css" />
+    <Content Include="css\style.css" />
+    <Content Include="css\superfish.css" />
+    <Content Include="fonts\bootstrap\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\icomoon\icomoon.svg" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\google_map.js" />
+    <Content Include="js\hoverIntent.js" />
+    <Content Include="js\jquery.easing.1.3.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jquery.stellar.min.js" />
+    <Content Include="js\jquery.waypoints.min.js" />
+    <Content Include="js\main.js" />
+    <Content Include="js\modernizr-2.6.2.min.js" />
+    <Content Include="js\respond.min.js" />
+    <Content Include="js\superfish.js" />
+    <Content Include="paginas\administrador\ControlUsuario.aspx" />
+    <Content Include="paginas\administrador\CrearNoticias.aspx" />
+    <Content Include="paginas\administrador\CrearUsuario.aspx" />
+    <Content Include="paginas\administrador\EliminarUsuario.aspx" />
+    <Content Include="paginas\administrador\InicioAdministrador.aspx" />
+    <Content Include="paginas\administrador\ListaUsuarios.aspx" />
+    <Content Include="paginas\agente\Estadisticas.aspx" />
+    <Content Include="paginas\agente\InicioAgente.aspx" />
+    <Content Include="paginas\agente\RegistrarEmpresa.aspx" />
+    <Content Include="paginas\agente\RegistrarSitio.aspx" />
+    <Content Include="paginas\agente\ResultadoRecorrido.aspx" />
+    <Content Include="paginas\agente\VerRecorrido.aspx" />
+    <Content Include="paginas\Catalogo.aspx" />
+    <Content Include="paginas\Formulario_Empresa.aspx" />
+    <Content Include="paginas\Index.aspx" />
+    <Content Include="paginas\LogIn.aspx" />
+    <Content Include="paginas\publico\Compartir.aspx" />
+    <Content Include="paginas\publico\Favorito.aspx" />
+    <Content Include="paginas\publico\Favoritos.aspx" />
+    <Content Include="paginas\publico\InicioPublico.aspx" />
+    <Content Include="paginas\publico\Like.aspx" />
+    <Content Include="paginas\publico\ListaLugares.aspx" />
+    <Content Include="paginas\publico\Notificaciones.aspx" />
+    <Content Include="paginas\publico\Ranking.aspx" />
+    <Content Include="paginas\Registro_Publico.aspx" />
+    <Content Include="paginas\tecnico\CrearRecorrido.aspx" />
+    <Content Include="paginas\tecnico\EvaluarEmpresa.aspx" />
+    <Content Include="paginas\tecnico\InicioTecnico.aspx" />
+    <Content Include="paginas\tecnico\ListaRecorridos.aspx" />
+    <Content Include="paginas\VerDatosSitio.aspx" />
+    <Content Include="paginas\VerDatosTurismo.aspx" />
+    <Content Include="paginas\VerNoticia.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Code\Conexion.cs" />
+    <Compile Include="paginas\administrador\ControlUsuario.aspx.cs">
+      <DependentUpon>ControlUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\administrador\ControlUsuario.aspx.designer.cs">
+      <DependentUpon>ControlUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\administrador\CrearNoticias.aspx.cs">
+      <DependentUpon>CrearNoticias.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\administrador\CrearNoticias.aspx.designer.cs">
+      <DependentUpon>CrearNoticias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\administrador\CrearUsuario.aspx.cs">
+      <DependentUpon>CrearUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\administrador\CrearUsuario.aspx.designer.cs">
+      <DependentUpon>CrearUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\administrador\EliminarUsuario.aspx.cs">
+      <DependentUpon>EliminarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\administrador\EliminarUsuario.aspx.designer.cs">
+      <DependentUpon>EliminarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\administrador\InicioAdministrador.aspx.cs">
+      <DependentUpon>InicioAdministrador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\administrador\InicioAdministrador.aspx.designer.cs">
+      <DependentUpon>InicioAdministrador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\administrador\ListaUsuarios.aspx.cs">
+      <DependentUpon>ListaUsuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\administrador\ListaUsuarios.aspx.designer.cs">
+      <DependentUpon>ListaUsuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\administrador\Noticia.cs" />
+    <Compile Include="paginas\administrador\Usuarios.cs" />
+    <Compile Include="paginas\agente\Estadisticas.aspx.cs">
+      <DependentUpon>Estadisticas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\agente\Estadisticas.aspx.designer.cs">
+      <DependentUpon>Estadisticas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\agente\Foto_Sitio.cs" />
+    <Compile Include="paginas\agente\InicioAgente.aspx.cs">
+      <DependentUpon>InicioAgente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\agente\InicioAgente.aspx.designer.cs">
+      <DependentUpon>InicioAgente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\agente\RegistrarEmpresa.aspx.cs">
+      <DependentUpon>RegistrarEmpresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\agente\RegistrarEmpresa.aspx.designer.cs">
+      <DependentUpon>RegistrarEmpresa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\agente\RegistrarSitio.aspx.cs">
+      <DependentUpon>RegistrarSitio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\agente\RegistrarSitio.aspx.designer.cs">
+      <DependentUpon>RegistrarSitio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\agente\ResultadoRecorrido.aspx.cs">
+      <DependentUpon>ResultadoRecorrido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\agente\ResultadoRecorrido.aspx.designer.cs">
+      <DependentUpon>ResultadoRecorrido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\agente\VerRecorrido.aspx.cs">
+      <DependentUpon>VerRecorrido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\agente\VerRecorrido.aspx.designer.cs">
+      <DependentUpon>VerRecorrido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\Catalogo.aspx.cs">
+      <DependentUpon>Catalogo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\Catalogo.aspx.designer.cs">
+      <DependentUpon>Catalogo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\Empresas.cs" />
+    <Compile Include="paginas\Formulario_Empresa.aspx.cs">
+      <DependentUpon>Formulario_Empresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\Formulario_Empresa.aspx.designer.cs">
+      <DependentUpon>Formulario_Empresa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\Foto_Empresa.cs" />
+    <Compile Include="paginas\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\LogIn.aspx.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\LogIn.aspx.designer.cs">
+      <DependentUpon>LogIn.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\MuseoDatos.cs" />
+    <Compile Include="paginas\Platillo_Empresa.cs" />
+    <Compile Include="paginas\PlatoRestaurante.cs" />
+    <Compile Include="paginas\Publicos.cs" />
+    <Compile Include="paginas\publico\Compartir.aspx.cs">
+      <DependentUpon>Compartir.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\publico\Compartir.aspx.designer.cs">
+      <DependentUpon>Compartir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\publico\Favorito.aspx.cs">
+      <DependentUpon>Favorito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\publico\Favorito.aspx.designer.cs">
+      <DependentUpon>Favorito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\publico\FavoritoEmpresa.cs" />
+    <Compile Include="paginas\publico\Favoritos.aspx.cs">
+      <DependentUpon>Favoritos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\publico\Favoritos.aspx.designer.cs">
+      <DependentUpon>Favoritos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\publico\FavoritoSitio.cs" />
+    <Compile Include="paginas\publico\GustaSitio.cs" />
+    <Compile Include="paginas\publico\InicioPublico.aspx.cs">
+      <DependentUpon>InicioPublico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\publico\InicioPublico.aspx.designer.cs">
+      <DependentUpon>InicioPublico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\publico\Like.aspx.cs">
+      <DependentUpon>Like.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\publico\Like.aspx.designer.cs">
+      <DependentUpon>Like.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\publico\ListaLugares.aspx.cs">
+      <DependentUpon>ListaLugares.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\publico\ListaLugares.aspx.designer.cs">
+      <DependentUpon>ListaLugares.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\publico\MeGusta.cs" />
+    <Compile Include="paginas\publico\Notificaciones.aspx.cs">
+      <DependentUpon>Notificaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\publico\Notificaciones.aspx.designer.cs">
+      <DependentUpon>Notificaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\publico\Ranking.aspx.cs">
+      <DependentUpon>Ranking.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\publico\Ranking.aspx.designer.cs">
+      <DependentUpon>Ranking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\Registro_Publico.aspx.cs">
+      <DependentUpon>Registro_Publico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\Registro_Publico.aspx.designer.cs">
+      <DependentUpon>Registro_Publico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\ServiciosEmpresa.cs" />
+    <Compile Include="paginas\Servicio_Empresa.cs" />
+    <Compile Include="paginas\Sitios.cs" />
+    <Compile Include="paginas\tecnico\CrearRecorrido.aspx.cs">
+      <DependentUpon>CrearRecorrido.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\tecnico\CrearRecorrido.aspx.designer.cs">
+      <DependentUpon>CrearRecorrido.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\tecnico\EvaluarEmpresa.aspx.cs">
+      <DependentUpon>EvaluarEmpresa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\tecnico\EvaluarEmpresa.aspx.designer.cs">
+      <DependentUpon>EvaluarEmpresa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\tecnico\InicioTecnico.aspx.cs">
+      <DependentUpon>InicioTecnico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\tecnico\InicioTecnico.aspx.designer.cs">
+      <DependentUpon>InicioTecnico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\tecnico\ListaRecorridos.aspx.cs">
+      <DependentUpon>ListaRecorridos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\tecnico\ListaRecorridos.aspx.designer.cs">
+      <DependentUpon>ListaRecorridos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\VerDatosSitio.aspx.cs">
+      <DependentUpon>VerDatosSitio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\VerDatosSitio.aspx.designer.cs">
+      <DependentUpon>VerDatosSitio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\VerDatosTurismo.aspx.cs">
+      <DependentUpon>VerDatosTurismo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\VerDatosTurismo.aspx.designer.cs">
+      <DependentUpon>VerDatosTurismo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paginas\VerNoticia.aspx.cs">
+      <DependentUpon>VerNoticia.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paginas\VerNoticia.aspx.designer.cs">
+      <DependentUpon>VerNoticia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\bootstrap\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\bootstrap\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\bootstrap\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\bootstrap\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\icomoon\icomoon.eot" />
+    <Content Include="fonts\icomoon\icomoon.ttf" />
+    <Content Include="fonts\icomoon\icomoon.woff" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="clases\" />
+    <Folder Include="img\" />
+    <Folder Include="import\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1657</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:1657/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
